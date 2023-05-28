@@ -1,4 +1,3 @@
-package com.jss.notifier
 package com.jss.notifier.tracker
 
 import akka.actor.typed.ActorSystem

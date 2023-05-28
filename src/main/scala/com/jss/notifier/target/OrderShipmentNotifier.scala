@@ -1,4 +1,3 @@
-package com.jss.notifier
 package com.jss.notifier.target
 
 import akka.actor.typed.scaladsl.Behaviors

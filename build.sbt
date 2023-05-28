@@ -7,7 +7,6 @@ val AkkaVersion = "2.8.2"
 lazy val root = (project in file("."))
   .settings(
     name := "notifier",
-    idePackagePrefix := Some("com.jss.notifier"),
     libraryDependencies ++= Seq(
       "com.typesafe.akka" %% "akka-actor-typed" % AkkaVersion,
       "com.typesafe.akka" %% "akka-stream" % AkkaVersion,

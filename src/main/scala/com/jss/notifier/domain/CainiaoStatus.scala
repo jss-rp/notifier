@@ -1,4 +1,3 @@
-package com.jss.notifier
 package com.jss.notifier.domain
 
 enum CainiaoStatus(val rawName: String):
